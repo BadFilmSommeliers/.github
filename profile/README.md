@@ -1,8 +1,10 @@
-![badFilmSommeliers](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/badFilmSommeliers.png?raw=true)
+![BESTlogo](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/BESTlogo.png?raw=true)
 
 **`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
 
 [직접 사용해보세요!](https://bfs-ninja.netlify.app/)
+
+<br>
 
 ## 만든 사람들 
 
@@ -10,7 +12,7 @@
 
 2. Magpie1000(web.1000c@gmail.com): 기획, 알고리즘 제작, 컬렉션 기능, CSR 구현 및 Python 코드 JS로 포팅. 
 
-
+<br>
 
 ## 도움 주신 분 
 
