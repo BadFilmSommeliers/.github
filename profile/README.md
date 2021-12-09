@@ -8,7 +8,7 @@
 
 ## 만든 사람들 
 
-역할 구분 없이 유기적으로 협업했습니다. 그 중 특별히 더 많이 기여한 분야를 서술합니다. 
+유기적으로 협업했습니다. 그 중 각자가 주도한 기능 및 분야를 서술합니다. 
 
 1. **Alexuhn** alexuhyun@gmail.com
    1. 백 - DRF를 이용한 RESTFUL API 생성. Django를 이용한 웹사이트 기능 구현. 
@@ -165,10 +165,5 @@ https://bfs-ninja.netlify.app/
 # PROJECT README
 
 프로젝트에 대한 자세한 사항은 [링크](https://bustling-carver-c58.notion.site/PROJECT_README-3f5681e37a1f41369c4666d64d809ded)에서 확인하실 수 있습니다.
-
-
-
-1. 
-
 
 
