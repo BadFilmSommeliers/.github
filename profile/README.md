@@ -1,4 +1,4 @@
-![badFilmSommeliers](README.assets/badFilmSommeliers.png)
+![badFilmSommeliers](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/badFilmSommeliers.png?raw=true)
 
 **`Bad Film Sommeliers`**, 이하 **`BFS`**는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
 
@@ -6,7 +6,7 @@
 
 # 프로젝트 기획 의도
 
-![Untitled](README.assets/Untitled.png)
+![Untitled](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/Untitled.png?raw=true)
 
 왜 세상은 내게 좋은 영화만 권할까?
 
@@ -132,19 +132,19 @@ https://bfs-ninja.netlify.app/
 5. TMDB에서 받은 `자료`를 재 가공,
 6. `사용자가 좋아할 만 한` 영화들을 추천해줍니다.
 
-![Untitled 1](README.assets/Untitled 1.png)
+![Untitled 1](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/Untitled%201.png?raw=true)
 
 - **단계별 코드**
 
   1. 로그인 시 유저의 DiscoverOption 업데이트.
 
-![code_4](README.assets/code_4.png)
+![code_4](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_4.png?raw=true)
 
-![code_1](README.assets/code_1.png)
+![code_1](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_1.png?raw=true)
 
-![code_2](README.assets/code_2.png)
+![code_2](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_2.png?raw=true)
 
-![code_3](README.assets/code_3.png)
+![code_3](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_3.png?raw=true)
 
 <br>
 
