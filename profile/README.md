@@ -150,5 +150,5 @@ https://bfs-ninja.netlify.app/
 
 # PROJECT README
 
-프로젝트에 대한 자세한 사항은 [링크](https://www.notion.so/PROJECT_README-3f5681e37a1f41369c4666d64d809ded)에서 확인하실 수 있습니다.
+프로젝트에 대한 자세한 사항은 [링크](https://bustling-carver-c58.notion.site/PROJECT_README-3f5681e37a1f41369c4666d64d809ded)에서 확인하실 수 있습니다.
 
