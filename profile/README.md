@@ -1,4 +1,4 @@
-[![BESTlogo](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/BESTlogo.png?raw=true)](https://bfs-ninja.netlify.app/)
+[![BESTlogo](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/BESTlogo.png?raw=true)](https://bfs.ninja)
 
 
 
@@ -8,13 +8,13 @@
 
 **`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
 
-## [직접 사용해보세요!](https://bfs-ninja.netlify.app/)
+## [직접 사용해보세요!](https://bfs.ninja)
 
 <br>
 
 ## 만든 사람들 
 
-유기적으로 협업했습니다. 그 중 각자가 주도한 기능 및 분야를 서술합니다. 
+기획, 설계 및 구현 과정 전반에서 유기적으로 협업했습니다. 각자가 주도한 기능과 분야를 서술합니다. 
 
 1. **Alexuhn** alexuhyun@gmail.com
    1. 백 - DRF를 이용한 RESTFUL API 생성. Django를 이용한 웹사이트 기능 구현. 
@@ -115,7 +115,7 @@
 
 # URL
 
-https://bfs-ninja.netlify.app/
+https://bfs.ninja
 
 <br>
 
