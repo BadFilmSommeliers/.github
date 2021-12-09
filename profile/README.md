@@ -8,15 +8,23 @@
 
 ## 만든 사람들 
 
-1. Alexuhn(alexuhyun@gmail.com): 백엔드, 프론트엔드, DB 설계.
+역할 구분 없이 유기적으로 협업했습니다. 그 중 특별히 더 많이 기여한 분야를 서술합니다. 
 
-2. Magpie1000(web.1000c@gmail.com): 기획, 알고리즘 제작, 컬렉션 기능, CSR 구현 및 Python 코드 JS로 포팅. 
+1. **Alexuhn** alexuhyun@gmail.com
+   1. 백 - DRF를 이용한 RESTFUL API 생성. Django를 이용한 웹사이트 기능 구현. 
+   2. 프론트 -  Vue를 이용한 SPA 구현. UI 설계 및 구현. 
+
+2. **Magpie1000** web.1000c@gmail.com
+   1. 백 - API 설계. 외부 API 통신. User모델 설계. 서버 부하 최적화.  
+   2. 프론트 - 외부 API 통신. UX 성능 최적화. 
+   3. 영화 추천 알고리즘 제작
+
 
 <br>
 
 ## 도움 주신 분 
 
-1. bd: 마스코트 캐릭터 및 로고 디자인.  웹사이트 테마 컬러 설정. 
+1. **bd:**  마스코트 캐릭터 및 로고 디자인.  웹사이트 테마 컬러 설정. 
 
 
 
