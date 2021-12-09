@@ -134,18 +134,6 @@ https://bfs-ninja.netlify.app/
 
 ![Untitled 1](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/Untitled%201.png?raw=true)
 
-- **단계별 코드**
-
-  1. 로그인 시 유저의 DiscoverOption 업데이트.
-
-![code_4](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_4.png?raw=true)
-
-![code_1](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_1.png?raw=true)
-
-![code_2](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_2.png?raw=true)
-
-![code_3](https://github.com/BadFilmSommeliers/.github/blob/main/profile/README.assets/code_3.png?raw=true)
-
 <br>
 
 # PROJECT README
