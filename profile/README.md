@@ -2,6 +2,22 @@
 
 **`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
 
+[직접 사용해보세요!](https://bfs-ninja.netlify.app/)
+
+## 만든 사람들 
+
+1. Alexuhn(alexuhyun@gmail.com): 백엔드, 프론트엔드, DB 설계.
+
+2. Magpie1000(web.1000c@gmail.com): 기획, 알고리즘 제작, 컬렉션 기능, CSR 구현 및 Python 코드 JS로 포팅. 
+
+
+
+## 도움 주신 분 
+
+1. bd: 마스코트 캐릭터 및 로고 디자인.  웹사이트 테마 컬러 설정. 
+
+
+
 <br>
 
 # 프로젝트 기획 의도
@@ -139,4 +155,10 @@ https://bfs-ninja.netlify.app/
 # PROJECT README
 
 프로젝트에 대한 자세한 사항은 [링크](https://bustling-carver-c58.notion.site/PROJECT_README-3f5681e37a1f41369c4666d64d809ded)에서 확인하실 수 있습니다.
+
+
+
+1. 
+
+
 
