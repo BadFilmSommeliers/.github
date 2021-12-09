@@ -6,7 +6,9 @@
 
 
 
-**`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
+**`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다. 
+
+
 
 ## [직접 사용해보세요!](https://bfs.ninja)
 
@@ -115,7 +117,7 @@
 
 # URL
 
-https://bfs.ninja
+[![Netlify Status](https://api.netlify.com/api/v1/badges/216edebe-b23e-4d0b-80db-f3b49a7e5320/deploy-status)](https://app.netlify.com/sites/bfs-ninja/deploys)  https://bfs.ninja
 
 <br>
 
