@@ -2,7 +2,7 @@
 
 **`Bad Film Sommeliers`**, 이하 **`BFS`** 는 B급 영화와 컬트 영화, 인기 없는 영화를 즐기는 영화 팬들을 위한 영화 추천 웹사이트입니다.
 
-[직접 사용해보세요!](https://bfs-ninja.netlify.app/)
+## [직접 사용해보세요!](https://bfs-ninja.netlify.app/)
 
 <br>
 
@@ -165,5 +165,4 @@ https://bfs-ninja.netlify.app/
 # PROJECT README
 
 프로젝트에 대한 자세한 사항은 [링크](https://bustling-carver-c58.notion.site/PROJECT_README-3f5681e37a1f41369c4666d64d809ded)에서 확인하실 수 있습니다.
-
 
